@@ -1,0 +1,115 @@
+
+* {
+    box-sizing: border-box;
+  }
+h1 {
+    color: #000000;
+    font-size: 175%;
+    text-align: center;
+    float: left;
+}
+body {
+  font-size: 16px;
+  color: rgba(34, 33, 33, 0.884);
+  background-color: #FFFFFF;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+
+h3 {
+  font-weight: bold;
+  text-align: center;
+  color: #000000;
+}
+h2{
+  color: #000000;
+}
+section {
+       
+    background-color: #A9A9A9;
+    font-weight: bold;
+
+}
+p {
+    clear: right;
+    width: 90%;
+    padding: 5px;
+}
+
+
+#Chicken {
+    background-color: brown;
+}
+
+#Beef {
+    background-color: darkorchid;
+}
+
+#Sushi {
+    background-color: forestgreen;
+}
+
+#header-nav {
+  background-color: #A9A9A9;
+  border-radius: 0;
+  border: 0;
+  min-height: 70px;
+}
+
+.navbar-brand h1 {
+  font-family: 'Lora', serif;
+  color: #000000;
+  font-size: 1.8em;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  line-height: .75;
+  background-color: #A9A9A9; 
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+#nav-list a {
+  color: #000000;
+  font-weight: bold;
+  border: 1px solid black;
+  background-color: #FFFFFF
+}
+
+#nav-list a:hover {
+  background: rgb(236, 236, 209);
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 2px solid #000000;
+  color: #000000;
+}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+#page-title {
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+#main-text {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.text-background {
+  
+  padding: 15px 10px 15px 10px;
+  background-color: #FFFFFF;
+  overflow: hidden;
+}
+
+
+
+  
